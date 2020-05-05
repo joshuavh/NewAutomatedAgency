@@ -131,3 +131,15 @@ a {
   text-transform: uppercase;
   letter-spacing: 1px;
 }
+
+#HCB_comment_box a {
+  padding: 0;
+}
+
+#HCB_comment_box h3 {
+  padding: 0;
+}
+
+#HCB_comment_box p {
+  padding: 0;
+}
