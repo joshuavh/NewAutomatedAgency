@@ -98,8 +98,6 @@ body {
 
 .chapter {
   position: absolute;
-  /* margin-left: 0; */
-  /* display: block; */
   display: flex;
   flex-direction: row;
   overflow: hidden;
@@ -107,25 +105,21 @@ body {
 }
 
 #intro {
-  /* width: 800vw; */
   left: 0;
   z-index: 0;
 }
 
 #near {
-  /* width: 1200vw; */
   left: 400vw;
   z-index: 1;
 }
 
 #speculative {
-  /* width: 900vw; */
   left: 1000vw;
   z-index: 2;
 }
 
 #outro {
-  /* width: 200vw; */
   left: 1450vw;
   z-index: 3;
 }
